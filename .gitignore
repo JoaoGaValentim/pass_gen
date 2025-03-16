@@ -1,0 +1,4 @@
+venv/
+password.txt
+.venv/
+.vscode/
